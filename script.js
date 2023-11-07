@@ -1,1 +1,3 @@
-console.log("HOLA!")
+console.log("HOLA!");
+nombre = "daniel";
+edad=18;
